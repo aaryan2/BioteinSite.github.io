@@ -11,11 +11,6 @@
   border: none;
 }
 
-#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link{
-  color: #000000;
-  font-weight: 700;
-  /*font-size: 14.4px;*/
-}
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #49c970;
