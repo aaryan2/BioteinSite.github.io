@@ -96,6 +96,11 @@ header.masthead {
   line-height: 1.8;
 }
 
+#team-p {
+line-height: 1.8;
+
+}
+
 .form-control::selection {
   color: #49c970;
 }
